@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+printf("Welocome to the world");
+return 0;
+}
